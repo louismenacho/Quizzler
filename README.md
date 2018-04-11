@@ -37,7 +37,3 @@
         list.append(Question(text: "No piece of square dry paper can be folded in half more than 7 times.", correctAnswer: false))
         
         list.append(Question(text: "Chocolate affects a dog\'s heart and nervous system; a few ounces are enough to kill a small dog.", correctAnswer: true))
-        
-        
-
-Copyright © The App Brewery
